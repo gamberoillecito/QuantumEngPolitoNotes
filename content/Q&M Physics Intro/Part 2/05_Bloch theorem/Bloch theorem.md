@@ -46,7 +46,7 @@ $$
 
 ## Consequences
 
-Given a crystal with dimensions $L_1, L_2, L_3$ which contains $N = N_1, N_2, N_3$ primitive cells, the BVK conditions tell us that: 
+Given a crystal with dimensions $L_1, L_2, L_3$ which contains $N = N_1 * N_2 * N_3$ primitive cells, the BVK conditions tell us that: 
 
 $$
 \Psi_{\vec{k}} = (\vec{r} + N_{i} \vec{a}_{i}) = \Psi_{\vec{k}} (\vec{r}) \tag{1}
